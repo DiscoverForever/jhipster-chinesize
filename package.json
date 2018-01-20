@@ -1,0 +1,15 @@
+{
+  "name": "change-lang",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "cl": "bin/cl.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "fs-extra": "^5.0.0",
+    "jhipster-core": "^1.4.3"
+  }
+}
