@@ -6,5 +6,5 @@ A cli for jhipster chinesize
  $ npm i -g jhipster-chinesize
  # cl <jdlPath> <i18n zh-cn path> <projectName>
  # example
- $ cl example.jdl src/main/webapp/i8n/zh-ch example
+ $ cl example.jdl src/main/webapp/i18n/zh-cn example
  ```
